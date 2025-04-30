@@ -1,5 +1,5 @@
-# matplotlib
 streamlit
 matplotlib
-streamlit
-pandas   # if you use it
+seaborn
+pandas
+numpy
