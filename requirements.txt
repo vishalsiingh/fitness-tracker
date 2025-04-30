@@ -1,4 +1,5 @@
 # matplotlib
 streamlit
 matplotlib
+streamlit
 pandas   # if you use it
